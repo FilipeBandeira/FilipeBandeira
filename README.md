@@ -21,6 +21,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   .
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  .
  </div>
 
 <br/>Sou apaixonado por tecnologia, inovação e novos desafios.
