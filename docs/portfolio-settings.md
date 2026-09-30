@@ -1,26 +1,27 @@
 # Apresentação do portfólio
 
-## Campos da conta e dos repositórios
+## Campos atualizados da conta e dos repositórios
 
-O README de perfil e os arquivos dos projetos podem ser atualizados pela conexão de código. A conexão disponível nesta revisão não expõe ações para editar a bio da conta, os repositórios fixados, as descrições ou os topics. Os textos abaixo ficam preparados para esses campos.
+Em 30 de setembro de 2026, foram publicados e conferidos o README de perfil, o currículo web e a bio da conta. As descrições e os topics dos 21 repositórios foram atualizados, e seis projetos foram fixados no perfil. Os campos da conta e dos repositórios foram salvos pela interface do GitHub em uma sessão autenticada.
 
-**Bio sugerida:**
+**Bio publicada:**
 
 > Full Stack | .NET/C#, Angular, JS/TS, Java, SQL, MAUI e Flutter | BTI/UFRN | Estudos: React, React Native, Engenharia de Software e IA
 
-**Repositórios sugeridos para fixar:**
+**Repositórios fixados:**
 
-1. Sistema_De_Agendamentos_De_Avaliacoes_Imobiliaria
-2. projeto-blog-angular
-3. projeto-BuzzFeed-angular
-4. Sistema_Banco_Simples
-5. Sistema_de_Cadastro
-6. Lista_Encadeadas_Java
+- Sistema_De_Agendamentos_De_Avaliacoes_Imobiliaria
+- projeto-blog-angular
+- projeto-BuzzFeed-angular
+- Sistema_Banco_Simples
+- Sistema_de_Cadastro
+- Lista_Encadeadas_Java
 
-## Descrições e topics sugeridos
+## Descrições e topics publicados
 
 | Repositório | Descrição | Topics |
 | --- | --- | --- |
+| FilipeBandeira | Perfil profissional de Filipe Bandeira: desenvolvimento Full Stack, aplicações web e mobile e formação em Engenharia de Software. | `github-profile`, `full-stack`, `software-engineering` |
 | Sistema_De_Agendamentos_De_Avaliacoes_Imobiliaria | Agendamento de avaliações em C++ com Round-Robin, Haversine, vizinho mais próximo e testes. | `cpp`, `algorithms`, `scheduling`, `haversine` |
 | Sistema_Banco_Simples | Exercício de POO em C++: clientes, contas, operações bancárias e testes de regressão. | `cpp`, `oop`, `educational-project` |
 | Sistema_de_Cadastro | Cadastro de funcionários em C++ com herança, polimorfismo e regras salariais didáticas. | `cpp`, `oop`, `polymorphism` |
