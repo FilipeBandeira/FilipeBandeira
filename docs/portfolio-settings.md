@@ -6,7 +6,7 @@ Em 30 de setembro de 2026, foram publicados e conferidos o README de perfil, o c
 
 **Bio publicada:**
 
-> Desenvolvedor Full Stack de aplicações web e mobile com .NET e Angular. Graduando em TI na UFRN.
+> Desenvolvedor Full Stack de aplicações web e mobile. Graduando em TI na UFRN, com foco em Engenharia de Software e Inteligência Artificial.
 
 **Repositórios fixados:**
 
