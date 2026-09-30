@@ -1,72 +1,42 @@
-# Olá, eu sou Filipe Bandeira
+# Filipe Bandeira
 
-Desenvolvedor de Software com foco em aplicações web e mobile, atuando com **.NET/C#**, **Angular**, **Java**, **SQL**, **APIs REST** e **.NET MAUI**. Atualmente curso **Tecnologia da Informação no IMD/UFRN** e venho ampliando minha formação em **Engenharia de Software** e **Inteligência Artificial**.
+**Desenvolvedor Full Stack | .NET · C# · Angular · Java · SQL · Mobile**
 
-Busco construir soluções bem estruturadas, com código legível, boas práticas, integração entre sistemas e evolução contínua da arquitetura.
+Atuo no desenvolvimento de aplicações web e mobile, com experiência em .NET/C#, Angular, Java, SQL, APIs REST, .NET MAUI e Flutter. Curso o Bacharelado em Tecnologia da Informação no IMD/UFRN e estou ampliando minha formação em Engenharia de Software e Inteligência Artificial.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-bandeira/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FilipeBandeira)
+Tenho interesse em código legível, modelagem de domínio, integração de sistemas e aplicações que resolvam problemas concretos. Minha formação anterior em Direito também contribui para a análise de requisitos e a compreensão de regras de negócio.
 
-## Stack principal
+[LinkedIn](https://www.linkedin.com/in/filipe-bandeira/) · [Repositórios](https://github.com/FilipeBandeira?tab=repositories)
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+## Tecnologias de trabalho
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| Área | Tecnologias |
+| --- | --- |
+| Backend e integração | C#, .NET, Java, APIs REST |
+| Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
+| Mobile | .NET MAUI, Flutter |
+| Dados | SQL |
+| Desenvolvimento | Git, GitHub, Visual Studio, VS Code |
 
-### Mobile
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+## Projetos selecionados
 
-### Dados e IA
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+Os projetos públicos abaixo incluem trabalhos acadêmicos e aplicações de estudo. Cada README descreve a implementação, as instruções de execução e os limites do projeto.
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+| Projeto | Tecnologias | O que demonstra |
+| --- | --- | --- |
+| [Agendamentos imobiliários](https://github.com/FilipeBandeira/Sistema_De_Agendamentos_De_Avaliacoes_Imobiliaria) | C++ | Distribuição Round-Robin, vizinho mais próximo, Haversine e processamento de entrada |
+| [Blog Angular](https://github.com/FilipeBandeira/projeto-blog-angular) | Angular, TypeScript | Componentes reutilizáveis, rotas e páginas de artigos |
+| [Quiz Angular](https://github.com/FilipeBandeira/projeto-BuzzFeed-angular) | Angular, TypeScript | Fluxo de perguntas, gerenciamento de estado e cálculo de resultado |
+| [Sistema bancário](https://github.com/FilipeBandeira/Sistema_Banco_Simples) | C++ | Encapsulamento, composição e sobrecarga de métodos |
+| [Cadastro de funcionários](https://github.com/FilipeBandeira/Sistema_de_Cadastro) | C++ | Herança, polimorfismo e regras de cálculo salarial |
+| [Listas encadeadas](https://github.com/FilipeBandeira/Lista_Encadeadas_Java) | Java | Listas simples, duplas, circulares e pilhas |
 
-## Projetos em destaque
+Outros projetos, como a [Pokédex](https://github.com/FilipeBandeira/projeto-pokedex), e os repositórios de exercícios registram minha evolução em desenvolvimento web e fundamentos de programação.
 
-### Sistema de Agendamentos de Avaliações Imobiliárias
-Projeto em **C++** voltado à geração automatizada de agendas de visitas para corretores avaliadores, utilizando distribuição Round-Robin, algoritmo do vizinho mais próximo e cálculo de distância pela fórmula de Haversine.
+## Formação em andamento
 
-[Ver repositório](https://github.com/FilipeBandeira/Sistema_De_Agendamentos_De_Avaliacoes_Imobiliaria)
+- Engenharia de Software, arquitetura, testes e integração contínua.
+- Python e fundamentos de dados e Machine Learning.
+- Inteligência Artificial aplicada a software, com estudo de LLMs, RAG e agentes.
 
-### Sistema Bancário Simples
-Projeto acadêmico em **C++** com modelagem orientada a objetos para representar clientes e contas bancárias, desenvolvido durante a disciplina de Linguagem de Programação I.
-
-[Ver repositório](https://github.com/FilipeBandeira/Sistema_Banco_Simples)
-
-### Sistema de Cadastro
-Projeto acadêmico em **C++** para gerenciamento de cadastro de funcionários, com foco em fundamentos de programação e organização de código.
-
-[Ver repositório](https://github.com/FilipeBandeira/Sistema_de_Cadastro)
-
-## Atualmente estudando
-
-- Engenharia de Software e arquitetura de aplicações
-- Inteligência Artificial e Machine Learning
-- Python aplicado a dados e IA
-- Integração de aplicações com APIs e serviços
-- Boas práticas de desenvolvimento, testes e CI/CD
-
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeBandeira&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBandeira&layout=compact)
-
----
-
-Aberto a aprendizado contínuo, colaboração e construção de projetos que conectem **Engenharia de Software, desenvolvimento mobile e Inteligência Artificial**.
+Quero transformar esses estudos em projetos originais de portfólio, com documentação e validação reproduzíveis.
