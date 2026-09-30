@@ -1,8 +1,8 @@
 # Filipe Bandeira
 
-**Desenvolvedor Full Stack | .NET · C# · Angular · Java · SQL · Mobile**
+**Desenvolvedor Full Stack | .NET · C# · Angular · JavaScript · TypeScript · Java · SQL · .NET MAUI · Flutter**
 
-Atuo no desenvolvimento de aplicações web e mobile, com experiência em .NET/C#, Angular, Java, SQL, APIs REST, .NET MAUI e Flutter. Curso o Bacharelado em Tecnologia da Informação no IMD/UFRN e estou ampliando minha formação em Engenharia de Software e Inteligência Artificial.
+Atuo no desenvolvimento de aplicações web e mobile, com experiência em .NET/C#, Angular, JavaScript, TypeScript, Java, SQL, APIs REST, .NET MAUI e Flutter. Curso o Bacharelado em Tecnologia da Informação no IMD/UFRN e estou ampliando minha formação em Engenharia de Software e Inteligência Artificial.
 
 Tenho interesse em código legível, modelagem de domínio, integração de sistemas e aplicações que resolvam problemas concretos. Minha formação anterior em Direito também contribui para a análise de requisitos e a compreensão de regras de negócio.
 
@@ -16,7 +16,8 @@ Tenho interesse em código legível, modelagem de domínio, integração de sist
 | Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
 | Mobile | .NET MAUI, Flutter |
 | Dados | SQL |
-| Desenvolvimento | Git, GitHub, Visual Studio, VS Code |
+| Fundamentos e algoritmos | C, C++ |
+| Desenvolvimento e execução | Git, GitHub, Node.js, Visual Studio, VS Code |
 
 ## Projetos selecionados
 
