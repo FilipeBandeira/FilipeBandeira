@@ -6,7 +6,7 @@ O README de perfil e os arquivos dos projetos podem ser atualizados pela conexã
 
 **Bio sugerida:**
 
-> Desenvolvedor Full Stack | .NET, C#, Angular, Java, SQL e Mobile | BTI no IMD/UFRN | Estudos em Engenharia de Software e IA.
+> Desenvolvedor Full Stack | .NET/C#, Angular, JavaScript, TypeScript, Java, SQL, .NET MAUI e Flutter | BTI/UFRN | Estudos em Engenharia de Software e IA
 
 **Repositórios sugeridos para fixar:**
 
