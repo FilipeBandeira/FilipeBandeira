@@ -6,7 +6,7 @@ O README de perfil e os arquivos dos projetos podem ser atualizados pela conexã
 
 **Bio sugerida:**
 
-> Desenvolvedor Full Stack | .NET/C#, Angular, JavaScript, TypeScript, Java, SQL, .NET MAUI e Flutter | BTI/UFRN | Estudos em Engenharia de Software e IA
+> Full Stack | .NET/C#, Angular, JS/TS, Java, SQL, MAUI e Flutter | BTI/UFRN | Estudos: React, React Native, Engenharia de Software e IA
 
 **Repositórios sugeridos para fixar:**
 
@@ -46,6 +46,9 @@ O README de perfil e os arquivos dos projetos podem ser atualizados pela conexã
 
 - Migrar os dois projetos Angular e os exemplos Angular do bootcamp para uma versão mantida. Validar instalação, build e interface; os testes isolados de lógica adicionados nesta revisão não comprovam esses passos.
 - Publicar um projeto original com .NET/C#, API, SQL e mobile, conectado à experiência profissional atual.
+- Publicar uma aplicação original em React e um cliente mobile em React Native, com TypeScript, navegação, gerenciamento de estado e integração com uma API. Registrar o que foi implementado antes de apresentar essas tecnologias como experiência demonstrada no portfólio.
+- Demonstrar fundamentos de Engenharia de Software no projeto: requisitos, modelagem de domínio, decisões de arquitetura, princípios SOLID quando aplicáveis, testes unitários e de integração e um fluxo de CI/CD.
+- Evoluir a entrega com Docker, configuração por ambiente e uma implantação em nuvem. Documentar autenticação, autorização, validação de entradas e observabilidade conforme as necessidades da aplicação.
 - Construir um primeiro projeto de IA após consolidar os fundamentos, com objetivo, conjunto de dados e avaliação definidos.
 - Acrescentar demonstrações visuais dos projetos principais e uma aplicação publicada quando o projeto estiver pronto.
 - Usar issues, branches e pull requests para mudanças reais. Manter commits descritivos, sem reescrever o histórico de aprendizado.
